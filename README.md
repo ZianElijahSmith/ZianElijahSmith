@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ZianElijahSmith
+- Here's my linktree!  https://linktr.ee/zianelijahsmith
 - 👀 I’m interested in ... Coding, Philosophy, Politics, Science, anything that is Objective. I love learning about lot's of stuff.
 - 🌱 I’m currently learning ... Rust and Elixir.
 - 💞️ I’m looking to collaborate on ... can't say, for reasons.
