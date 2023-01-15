@@ -1,3 +1,7 @@
+<div>
+  <img style="border-radius: 50%; margin: 0 auto; text-align: center; height:3em; width: auto;" src="https://raw.githubusercontent.com/ZianElijahSmith/ZianElijahSmith/main/zian-2022-oil-painting.jpg">
+</div>
+
 - 👋 Hi, I’m @ZianElijahSmith
 - Here's my linktree!  https://linktr.ee/zianelijahsmith (Will be replaced by website later)
 - I've been busy working on blogs and making content, will have more later this year.
