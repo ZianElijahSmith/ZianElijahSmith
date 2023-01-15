@@ -10,7 +10,9 @@ You can e-mail me at libertynerd@protonmail.com
 <br>
 You can find my Twitter at https://twitter.com/ZianElijahSmith
 <br>
-I'm currently developing a substack and other things, so more will pop up over time.
+I'm currently developing a substack and other things, so more will pop up over time
+You can find one of my substack articles here! 
+https://ziansmith.substack.com/p/becoming-a-hacker
 
 <!---
 ZianElijahSmith/ZianElijahSmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
