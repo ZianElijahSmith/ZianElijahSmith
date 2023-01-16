@@ -8,7 +8,8 @@
   <a href="https://twitter.com/ZianElijahSmith"><img src="https://img.shields.io/twitter/follow/ZianElijahSmith" /></a>
 </div>
 
-- 👋 Hi, I’m Zian Elijah Smith!
+<div id="" align="center">
+  <h2 algin="center" style="font-style: cursive;">👋 Hi, I’m Zian Elijah Smith!</h2>
 - Here's my linktree!  https://linktr.ee/zianelijahsmith (Will be replaced by website later)
 - I've been busy working on blogs and making content, will have more later this year.
 - 👀 I’m interested in ... Coding, Philosophy, Politics, Science, anything that is Objective. I love learning about lot's of stuff.
