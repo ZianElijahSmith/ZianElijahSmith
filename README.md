@@ -9,7 +9,13 @@
   <h3 align="center">Social Media</h3>
   <a href="https://twitter.com/ZianElijahSmith"><img src="https://img.shields.io/twitter/follow/ZianElijahSmith" /></a>
   <br />
-  <a style="color:black;" href="https://ziansmith.substack.com/"> <img style="height: 20px !important;" src="https://raw.githubusercontent.com/ZianElijahSmith/ZianElijahSmith/main/images/substack.png" /><span style="color: black;"> Substack </span> </a>
+  <h3 align="center">Blogs</h3>
+  <a href="https://ziansmith.substack.com/"> <img style="height: 20px !important;" src="https://raw.githubusercontent.com/ZianElijahSmith/ZianElijahSmith/main/images/substack.png" /><span style="color: black !important;"> Substack </span> </a> 
+  &nbsp;
+  <a href="https://medium.com/@ZianElijahSmith"> <img style="height: 20px !important;" src="https://raw.githubusercontent.com/ZianElijahSmith/ZianElijahSmith/main/images/medium.png" /><span style="color: black !important;"> Medium </span> </a> 
+    &nbsp;
+  <a href="https://hashnode.com/@Libertynerd"> <img style="height: 20px !important;" src="https://raw.githubusercontent.com/ZianElijahSmith/ZianElijahSmith/main/images/hashnode-logo.jpg" /><span style="color: black !important;"> Hashnode </span> </a> 
+ 
 </div>
 
 <div id="" align="center">
