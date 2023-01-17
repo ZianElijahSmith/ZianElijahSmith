@@ -8,16 +8,23 @@
   <img src="https://img.shields.io/badge/Board of Directors-American Natural Rights Foundation-blue" />
   <h3 align="center">Social Media</h3>
   <a href="https://twitter.com/ZianElijahSmith"><img src="https://img.shields.io/twitter/follow/ZianElijahSmith" /></a>
-  <a href="https://twitter.com/ZianElijahSmith"><img src="" />
+  <br />
+  <a style="color:black;" href="https://ziansmith.substack.com/"> <img style="height: 20px !important;" src="https://raw.githubusercontent.com/ZianElijahSmith/ZianElijahSmith/main/images/substack.png" /><span style="color: black;"> Substack </span> </a>
 </div>
 
 <div id="" align="center">
   <h2 algin="center" style="font-style: cursive;">👋 Hi, I’m Zian Elijah Smith!</h2>
+  <br />
 - Here's my linktree!  https://linktr.ee/zianelijahsmith (Will be replaced by website later)
+  <br />
 - I've been busy working on blogs and making content, will have more later this year.
+  <br />
 - 👀 I’m interested in ... Coding, Philosophy, Politics, Science, anything that is Objective. I love learning about lot's of stuff.
+  <br />
 - 🌱 I’m currently learning ... Rust and Elixir.
+  <br />
 - 💞️ I’m looking to collaborate on ... can't say, for reasons.
+  <br />
 - 📫 How to reach me ...
 <br />
 You can e-mail me at libertynerd@protonmail.com 
