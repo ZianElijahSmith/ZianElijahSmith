@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Programs-Python-blue" />
   <img src="https://img.shields.io/badge/Programs-Rust-red" />
   <img src="https://img.shields.io/badge/Programs-JavaScript-orange" />
+  <img src="https://img.shields.io/badge/Learning-C-black" />
   <h3 align="center">Organizations</h3>
   <img src="https://img.shields.io/badge/Board of Directors-American Natural Rights Foundation-blue" />
   <h3 align="center">Social Media</h3>
