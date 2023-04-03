@@ -1,12 +1,19 @@
 <div id="header" align="center">
   <img style=" margin: 0 auto; text-align: center; height:7em; width: auto;" src="https://raw.githubusercontent.com/ZianElijahSmith/ZianElijahSmith/main/zian-2022-oil-painting.jpg" />
-  <h3 align="center">Languages</h3>
+  
+  <h3 align="center">Programming Languages</h3>
   <img src="https://img.shields.io/badge/Programs-Python-blue" />
   <img src="https://img.shields.io/badge/Programs-Rust-red" />
   <img src="https://img.shields.io/badge/Programs-JavaScript-orange" />
   <img src="https://img.shields.io/badge/Learning-C-black" />
+  
+  <h3 align="center">Human Languages</h3>
+  <img src="https://img.shields.io/badge/Speaks-English-blue" />
+  <img src="https://img.shields.io/badge/Learning-Spanish-orange" />
+  <img src="https://img.shields.io/badge/Learning-Japanese-red" />
   <h3 align="center">Organizations</h3>
   <img src="https://img.shields.io/badge/Board of Directors-American Natural Rights Foundation-blue" />
+  <img src="https://img.shields.io/badge/Founder-FreePI-blue" />
   <h3 align="center">Social Media</h3>
   <a href="https://twitter.com/ZianElijahSmith"><img src="https://img.shields.io/twitter/follow/ZianElijahSmith" /></a>
   <br />
