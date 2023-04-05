@@ -7,6 +7,11 @@
   <img src="https://img.shields.io/badge/Programs-JavaScript-orange" />
   <img src="https://img.shields.io/badge/Learning-C-black" />
   
+  <h3 align="center">Rule-based/Markup Languages</h3>
+  <img src="https://img.shields.io/badge/Codes-HTML-blue" />
+  <img src="https://img.shields.io/badge/Codes-CSS-red" />
+  <img src="https://img.shields.io/badge/Learning-SQL-black" />
+  
   <h3 align="center">Human Languages</h3>
   <img src="https://img.shields.io/badge/Speaks-English-blue" />
   <img src="https://img.shields.io/badge/Learning-Spanish-orange" />
