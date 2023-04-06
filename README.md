@@ -3,7 +3,7 @@
   
   <h3 align="center">Programming Languages</h3>
   <img src="https://img.shields.io/badge/Programs-Python-blue" />
-  <img src="https://img.shields.io/badge/Programs-Rust-red" />
+  <img src="https://img.shields.io/badge/Learning-Rust-red" />
   <img src="https://img.shields.io/badge/Programs-JavaScript-orange" />
   <img src="https://img.shields.io/badge/Learning-C-black" />
   
