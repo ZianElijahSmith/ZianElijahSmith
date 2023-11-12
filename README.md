@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Learning-Rust-red" />
   <img src="https://img.shields.io/badge/Programs-JavaScript-orange" />
   <img src="https://img.shields.io/badge/Learning-C-black" />
+  <img src="https://img.shields.io/badge/Learning-Elixir-purple" />
   
   <h3 align="center">Rule-based/Markup Languages</h3>
   <img src="https://img.shields.io/badge/Codes-HTML-blue" />
