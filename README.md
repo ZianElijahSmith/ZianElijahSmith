@@ -2,19 +2,23 @@
   <img style=" margin: 0 auto; text-align: center; height:7em; width: auto;" src="https://raw.githubusercontent.com/ZianElijahSmith/ZianElijahSmith/main/zian-2022-oil-painting.jpg" />
   
   <h3 align="center">Programming Languages</h3>
+  <h4 align="center">Languages I know</h4>
   <img src="https://img.shields.io/badge/Programs-Python-blue" />
-  <img src="https://img.shields.io/badge/Learning-Rust-red" />
-  <img src="https://img.shields.io/badge/Programs-JavaScript-orange" />
-  <img src="https://img.shields.io/badge/Learning-C-black" />
+  <img src="https://img.shields.io/badge/Programs-JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/Programs-C-black" />
+  <h4 align="center">Learning</h4>
   <img src="https://img.shields.io/badge/Learning-Elixir-purple" />
-  
+  <img src="https://img.shields.io/badge/Learning-Rust-red" />
+  <img src="https://img.shields.io/badge/Learning-Swift-orange" />
+    
   <h3 align="center">Rule-based/Markup Languages</h3>
   <img src="https://img.shields.io/badge/Codes-HTML-blue" />
   <img src="https://img.shields.io/badge/Codes-CSS-red" />
   <img src="https://img.shields.io/badge/Learning-SQL-black" />
   
   <h3 align="center">Human Languages</h3>
-  <img src="https://img.shields.io/badge/Speaks-English-blue" />
+  <img src="https://img.shields.io/badge/Fluent-English-blue" />
+  <img src="https://img.shields.io/badge/Basic-German-green" />
   <img src="https://img.shields.io/badge/Learning-Spanish-orange" />
   <img src="https://img.shields.io/badge/Learning-Japanese-red" />
   <h3 align="center">Organizations</h3>
