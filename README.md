@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Learning-Japanese-red" />
   <h3 align="center">Organizations</h3>
   <img src="https://img.shields.io/badge/Board of Directors-American Natural Rights Foundation-blue" />
-  <img src="https://img.shields.io/badge/Founder-FreePI-blue" />
   <h3 align="center">Social Media</h3>
   <a href="https://twitter.com/ZianElijahSmith"><img src="https://img.shields.io/twitter/follow/ZianElijahSmith" /></a>
   <br />
