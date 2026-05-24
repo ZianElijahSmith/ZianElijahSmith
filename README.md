@@ -3,13 +3,14 @@
   
   <h3 align="center">Programming Languages</h3>
   <h4 align="center">Languages I know</h4>
-  <img src="https://img.shields.io/badge/Programs-Python-blue" />
+  <img src="https://img.shields.io/badge/Fluent_in-Python-blue" />
   <img src="https://img.shields.io/badge/Programs-JavaScript-yellow" />
   <img src="https://img.shields.io/badge/Programs-C-black" />
   <h4 align="center">Learning</h4>
   <img src="https://img.shields.io/badge/Learning-Elixir-purple" />
   <img src="https://img.shields.io/badge/Learning-Rust-red" />
   <img src="https://img.shields.io/badge/Learning-Swift-orange" />
+  <img src="https://img.shields.io/badge/Learning-Ada-teal" />
     
   <h3 align="center">Rule-based/Markup Languages</h3>
   <img src="https://img.shields.io/badge/Codes-HTML-blue" />
